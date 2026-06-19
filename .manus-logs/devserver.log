@@ -1,0 +1,244 @@
+[2026-06-19T14:57:10.734Z] Starting dev server with command: pnpm run dev
+[2026-06-19T14:57:13.002Z] > minha-rede-social-musica@1.0.0 dev /home/ubuntu/minha-rede-social-musica
+[2026-06-19T14:57:13.002Z] > NODE_ENV=development tsx watch server/_core/index.ts
+[2026-06-19T14:57:14.801Z] [OAuth] Initialized with baseURL: https://api.manus.im
+[2026-06-19T14:57:15.048Z] Server running on http://localhost:3000/
+[2026-06-19T15:00:28.962Z] 3:00:28 PM [tsx] change in ./drizzle/schema.ts Restarting...
+[2026-06-19T15:00:30.670Z] c[OAuth] Initialized with baseURL: https://api.manus.im
+[2026-06-19T15:00:30.915Z] Server running on http://localhost:3000/
+[2026-06-19T15:01:13.615Z] 3:01:13 PM [tsx] change in ./server/db.ts Restarting...
+[2026-06-19T15:01:15.263Z] c[OAuth] Initialized with baseURL: https://api.manus.im
+[2026-06-19T15:01:15.498Z] Server running on http://localhost:3000/
+[2026-06-19T15:01:20.209Z] 3:01:20 PM [tsx] change in ./server/db.ts Restarting...
+[2026-06-19T15:01:21.691Z] c[OAuth] Initialized with baseURL: https://api.manus.im
+[2026-06-19T15:01:21.918Z] Server running on http://localhost:3000/
+[2026-06-19T15:01:30.516Z] 3:01:30 PM [tsx] change in ./server/db.ts Restarting...
+[2026-06-19T15:01:32.216Z] c[OAuth] Initialized with baseURL: https://api.manus.im
+[2026-06-19T15:01:32.465Z] Server running on http://localhost:3000/
+[2026-06-19T15:01:59.676Z] 3:01:59 PM [tsx] change in ./server/routers.ts Restarting...
+[2026-06-19T15:02:01.386Z] c[OAuth] Initialized with baseURL: https://api.manus.im
+[2026-06-19T15:02:01.656Z] Server running on http://localhost:3000/
+[2026-06-19T15:06:20.990Z] [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[2026-06-19T15:06:21.248Z] 3:06:21 PM [vite] (client) Pre-transform error: Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+[2026-06-19T15:06:21.248Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-19T15:06:21.248Z] File: /home/ubuntu/minha-rede-social-musica/client/src/index.css
+[2026-06-19T15:06:21.850Z] 3:06:21 PM [vite] Internal server error: Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+[2026-06-19T15:06:21.850Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-19T15:06:21.850Z] File: /home/ubuntu/minha-rede-social-musica/client/src/index.css
+[2026-06-19T15:06:21.850Z] at onInvalidCandidate (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:18:1332)
+[2026-06-19T15:06:21.850Z] at pe (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:13:30343)
+[2026-06-19T15:06:21.850Z] at file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:18:373
+[2026-06-19T15:06:21.850Z] at j (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:3:1656)
+[2026-06-19T15:06:21.850Z] at Ke (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:18:172)
+[2026-06-19T15:06:21.850Z] at ii (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:37:294)
+[2026-06-19T15:06:21.850Z] at async vn (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:37:637)
+[2026-06-19T15:06:21.850Z] at async Ol (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:37:1412)
+[2026-06-19T15:06:21.850Z] at async Ka (/home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/@tailwindcss+node@4.1.14/node_modules/@tailwindcss/node/dist/index.mjs:10:3433)
+[2026-06-19T15:06:21.850Z] at async C.generate (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/@tailwindcss+vite@4.1.14_vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6_/node_modules/@tailwindcss/vite/dist/index.mjs:1:3571)
+[2026-06-19T15:06:21.850Z] at async TransformPluginContext.transform (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/@tailwindcss+vite@4.1.14_vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6_/node_modules/@tailwindcss/vite/dist/index.mjs:1:1949)
+[2026-06-19T15:06:21.850Z] at async EnvironmentPluginContainer.transform (/home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6/node_modules/vite/dist/node/chunks/dep-Chhhsdoe.js:31018:14)
+[2026-06-19T15:06:21.850Z] at async loadAndTransform (/home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6/node_modules/vite/dist/node/chunks/dep-Chhhsdoe.js:26143:26)
+[2026-06-19T15:06:21.850Z] at async viteTransformMiddleware (/home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6/node_modules/vite/dist/node/chunks/dep-Chhhsdoe.js:27221:20)
+[2026-06-19T15:06:22.157Z] 3:06:22 PM [vite] (client) Pre-transform error: Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+[2026-06-19T15:06:22.157Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-19T15:06:22.157Z] File: /home/ubuntu/minha-rede-social-musica/client/src/index.css
+[2026-06-19T15:06:22.832Z] 3:06:22 PM [vite] (client) Pre-transform error: Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+[2026-06-19T15:06:22.832Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-19T15:06:22.832Z] File: /home/ubuntu/minha-rede-social-musica/client/src/index.css
+[2026-06-19T15:06:24.262Z] 3:06:24 PM [vite] (client) ✨ new dependencies optimized: @radix-ui/react-dropdown-menu, @radix-ui/react-avatar, date-fns, date-fns/locale, @radix-ui/react-tabs, @radix-ui/react-dialog
+[2026-06-19T15:06:24.262Z] 3:06:24 PM [vite] (client) ✨ optimized dependencies changed. reloading
+[2026-06-19T15:06:24.386Z] 3:06:24 PM [vite] (client) Pre-transform error: Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+[2026-06-19T15:06:24.386Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-19T15:06:24.386Z] File: /home/ubuntu/minha-rede-social-musica/client/src/index.css
+[2026-06-19T15:06:24.669Z] 3:06:24 PM [vite] Internal server error: Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+[2026-06-19T15:06:24.669Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-19T15:06:24.669Z] File: /home/ubuntu/minha-rede-social-musica/client/src/index.css
+[2026-06-19T15:06:24.669Z] at onInvalidCandidate (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:18:1332)
+[2026-06-19T15:06:24.669Z] at pe (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:13:30343)
+[2026-06-19T15:06:24.669Z] at file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:18:373
+[2026-06-19T15:06:24.669Z] at j (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:3:1656)
+[2026-06-19T15:06:24.669Z] at Ke (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:18:172)
+[2026-06-19T15:06:24.669Z] at ii (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:37:294)
+[2026-06-19T15:06:24.669Z] at async vn (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:37:637)
+[2026-06-19T15:06:24.669Z] at async Ol (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:37:1412)
+[2026-06-19T15:06:24.669Z] at async Ka (/home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/@tailwindcss+node@4.1.14/node_modules/@tailwindcss/node/dist/index.mjs:10:3433)
+[2026-06-19T15:06:24.669Z] at async C.generate (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/@tailwindcss+vite@4.1.14_vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6_/node_modules/@tailwindcss/vite/dist/index.mjs:1:3571)
+[2026-06-19T15:06:24.669Z] at async TransformPluginContext.transform (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/@tailwindcss+vite@4.1.14_vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6_/node_modules/@tailwindcss/vite/dist/index.mjs:1:1949)
+[2026-06-19T15:06:24.669Z] at async EnvironmentPluginContainer.transform (/home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6/node_modules/vite/dist/node/chunks/dep-Chhhsdoe.js:31018:14)
+[2026-06-19T15:06:24.669Z] at async loadAndTransform (/home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6/node_modules/vite/dist/node/chunks/dep-Chhhsdoe.js:26143:26)
+[2026-06-19T15:06:24.669Z] at async viteTransformMiddleware (/home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6/node_modules/vite/dist/node/chunks/dep-Chhhsdoe.js:27221:20)
+[2026-06-19T15:06:24.901Z] 3:06:24 PM [vite] (client) Pre-transform error: Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+[2026-06-19T15:06:24.901Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-19T15:06:24.901Z] File: /home/ubuntu/minha-rede-social-musica/client/src/index.css
+[2026-06-19T15:06:24.918Z] 3:06:24 PM [vite] (client) Pre-transform error: Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+[2026-06-19T15:06:24.918Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-19T15:06:24.918Z] File: /home/ubuntu/minha-rede-social-musica/client/src/index.css
+[2026-06-19T15:07:07.437Z] 3:07:07 PM [vite] (client) Pre-transform error: Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+[2026-06-19T15:07:07.437Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-19T15:07:07.437Z] File: /home/ubuntu/minha-rede-social-musica/client/src/index.css
+[2026-06-19T15:07:37.938Z] 3:07:37 PM [vite] (client) hmr update /src/components/PostCard.tsx
+[2026-06-19T15:08:01.582Z] ELIFECYCLE  Command failed.
+[2026-06-19T15:08:01.648Z] Dev server exited with code -1
+[2026-06-19T15:08:02.698Z] Starting dev server with command: pnpm run dev
+[2026-06-19T15:08:03.492Z] > minha-rede-social-musica@1.0.0 dev /home/ubuntu/minha-rede-social-musica
+[2026-06-19T15:08:03.492Z] > NODE_ENV=development tsx watch server/_core/index.ts
+[2026-06-19T15:08:05.224Z] [OAuth] Initialized with baseURL: https://api.manus.im
+[2026-06-19T15:08:05.509Z] Server running on http://localhost:3000/
+[2026-06-19T15:08:14.563Z] [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[2026-06-19T15:08:14.773Z] 3:08:14 PM [vite] (client) Pre-transform error: Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+[2026-06-19T15:08:14.773Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-19T15:08:14.773Z] File: /home/ubuntu/minha-rede-social-musica/client/src/index.css
+[2026-06-19T15:09:54.699Z] 3:09:54 PM [vite] (client) Pre-transform error: Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+[2026-06-19T15:09:54.699Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-19T15:09:54.699Z] File: /home/ubuntu/minha-rede-social-musica/client/src/index.css
+[2026-06-19T15:09:55.115Z] 3:09:55 PM [vite] Internal server error: Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+[2026-06-19T15:09:55.115Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-19T15:09:55.115Z] File: /home/ubuntu/minha-rede-social-musica/client/src/index.css
+[2026-06-19T15:09:55.115Z] at onInvalidCandidate (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:18:1332)
+[2026-06-19T15:09:55.115Z] at pe (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:13:30343)
+[2026-06-19T15:09:55.115Z] at file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:18:373
+[2026-06-19T15:09:55.115Z] at j (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:3:1656)
+[2026-06-19T15:09:55.115Z] at Ke (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:18:172)
+[2026-06-19T15:09:55.115Z] at ii (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:37:294)
+[2026-06-19T15:09:55.115Z] at async vn (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:37:637)
+[2026-06-19T15:09:55.115Z] at async Ol (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:37:1412)
+[2026-06-19T15:09:55.115Z] at async Ka (/home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/@tailwindcss+node@4.1.14/node_modules/@tailwindcss/node/dist/index.mjs:10:3433)
+[2026-06-19T15:09:55.115Z] at async C.generate (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/@tailwindcss+vite@4.1.14_vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6_/node_modules/@tailwindcss/vite/dist/index.mjs:1:3571)
+[2026-06-19T15:09:55.115Z] at async TransformPluginContext.transform (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/@tailwindcss+vite@4.1.14_vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6_/node_modules/@tailwindcss/vite/dist/index.mjs:1:1949)
+[2026-06-19T15:09:55.115Z] at async EnvironmentPluginContainer.transform (/home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6/node_modules/vite/dist/node/chunks/dep-Chhhsdoe.js:31018:14)
+[2026-06-19T15:09:55.115Z] at async loadAndTransform (/home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6/node_modules/vite/dist/node/chunks/dep-Chhhsdoe.js:26143:26)
+[2026-06-19T15:09:55.115Z] at async viteTransformMiddleware (/home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6/node_modules/vite/dist/node/chunks/dep-Chhhsdoe.js:27221:20)
+[2026-06-19T15:09:55.171Z] 3:09:55 PM [vite] (client) Pre-transform error: Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+[2026-06-19T15:09:55.171Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-19T15:09:55.171Z] File: /home/ubuntu/minha-rede-social-musica/client/src/index.css
+[2026-06-19T15:09:55.250Z] 3:09:55 PM [vite] (client) Pre-transform error: Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+[2026-06-19T15:09:55.250Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-19T15:09:55.250Z] File: /home/ubuntu/minha-rede-social-musica/client/src/index.css
+[2026-06-19T15:09:57.927Z] 3:09:57 PM [vite] (client) Pre-transform error: Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+[2026-06-19T15:09:57.928Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-19T15:09:57.928Z] File: /home/ubuntu/minha-rede-social-musica/client/src/index.css
+[2026-06-19T15:09:58.923Z] 3:09:58 PM [vite] Internal server error: Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+[2026-06-19T15:09:58.923Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-19T15:09:58.924Z] File: /home/ubuntu/minha-rede-social-musica/client/src/index.css
+[2026-06-19T15:09:58.924Z] at onInvalidCandidate (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:18:1332)
+[2026-06-19T15:09:58.924Z] at pe (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:13:30343)
+[2026-06-19T15:09:58.924Z] at file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:18:373
+[2026-06-19T15:09:58.924Z] at j (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:3:1656)
+[2026-06-19T15:09:58.924Z] at Ke (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:18:172)
+[2026-06-19T15:09:58.924Z] at ii (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:37:294)
+[2026-06-19T15:09:58.924Z] at async vn (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:37:637)
+[2026-06-19T15:09:58.924Z] at async Ol (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:37:1412)
+[2026-06-19T15:09:58.924Z] at async Ka (/home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/@tailwindcss+node@4.1.14/node_modules/@tailwindcss/node/dist/index.mjs:10:3433)
+[2026-06-19T15:09:58.924Z] at async C.generate (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/@tailwindcss+vite@4.1.14_vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6_/node_modules/@tailwindcss/vite/dist/index.mjs:1:3571)
+[2026-06-19T15:09:58.924Z] at async TransformPluginContext.transform (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/@tailwindcss+vite@4.1.14_vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6_/node_modules/@tailwindcss/vite/dist/index.mjs:1:1949)
+[2026-06-19T15:09:58.924Z] at async EnvironmentPluginContainer.transform (/home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6/node_modules/vite/dist/node/chunks/dep-Chhhsdoe.js:31018:14)
+[2026-06-19T15:09:58.924Z] at async loadAndTransform (/home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6/node_modules/vite/dist/node/chunks/dep-Chhhsdoe.js:26143:26)
+[2026-06-19T15:09:58.924Z] at async viteTransformMiddleware (/home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6/node_modules/vite/dist/node/chunks/dep-Chhhsdoe.js:27221:20)
+[2026-06-19T15:09:58.948Z] 3:09:58 PM [vite] (client) Pre-transform error: Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+[2026-06-19T15:09:58.948Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-19T15:09:58.948Z] File: /home/ubuntu/minha-rede-social-musica/client/src/index.css
+[2026-06-19T15:10:00.289Z] 3:10:00 PM [vite] (client) Pre-transform error: Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+[2026-06-19T15:10:00.289Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-19T15:10:00.289Z] File: /home/ubuntu/minha-rede-social-musica/client/src/index.css
+[2026-06-19T15:10:01.799Z] 3:10:01 PM [vite] (client) Pre-transform error: Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+[2026-06-19T15:10:01.799Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-19T15:10:01.799Z] File: /home/ubuntu/minha-rede-social-musica/client/src/index.css
+[2026-06-19T15:10:02.234Z] 3:10:02 PM [vite] Internal server error: Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+[2026-06-19T15:10:02.234Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-19T15:10:02.235Z] File: /home/ubuntu/minha-rede-social-musica/client/src/index.css
+[2026-06-19T15:10:02.235Z] at onInvalidCandidate (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:18:1332)
+[2026-06-19T15:10:02.235Z] at pe (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:13:30343)
+[2026-06-19T15:10:02.235Z] at file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:18:373
+[2026-06-19T15:10:02.235Z] at j (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:3:1656)
+[2026-06-19T15:10:02.235Z] at Ke (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:18:172)
+[2026-06-19T15:10:02.235Z] at ii (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:37:294)
+[2026-06-19T15:10:02.235Z] at async vn (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:37:637)
+[2026-06-19T15:10:02.235Z] at async Ol (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:37:1412)
+[2026-06-19T15:10:02.235Z] at async Ka (/home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/@tailwindcss+node@4.1.14/node_modules/@tailwindcss/node/dist/index.mjs:10:3433)
+[2026-06-19T15:10:02.235Z] at async C.generate (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/@tailwindcss+vite@4.1.14_vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6_/node_modules/@tailwindcss/vite/dist/index.mjs:1:3571)
+[2026-06-19T15:10:02.235Z] at async TransformPluginContext.transform (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/@tailwindcss+vite@4.1.14_vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6_/node_modules/@tailwindcss/vite/dist/index.mjs:1:1949)
+[2026-06-19T15:10:02.235Z] at async EnvironmentPluginContainer.transform (/home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6/node_modules/vite/dist/node/chunks/dep-Chhhsdoe.js:31018:14)
+[2026-06-19T15:10:02.235Z] at async loadAndTransform (/home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6/node_modules/vite/dist/node/chunks/dep-Chhhsdoe.js:26143:26)
+[2026-06-19T15:10:02.235Z] at async viteTransformMiddleware (/home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6/node_modules/vite/dist/node/chunks/dep-Chhhsdoe.js:27221:20)
+[2026-06-19T15:10:02.254Z] 3:10:02 PM [vite] (client) Pre-transform error: Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+[2026-06-19T15:10:02.254Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-19T15:10:02.254Z] File: /home/ubuntu/minha-rede-social-musica/client/src/index.css
+[2026-06-19T15:10:02.778Z] 3:10:02 PM [vite] (client) Pre-transform error: Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+[2026-06-19T15:10:02.778Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-19T15:10:02.778Z] File: /home/ubuntu/minha-rede-social-musica/client/src/index.css
+[2026-06-19T15:10:03.215Z] 3:10:03 PM [vite] Internal server error: Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+[2026-06-19T15:10:03.215Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-19T15:10:03.215Z] File: /home/ubuntu/minha-rede-social-musica/client/src/index.css
+[2026-06-19T15:10:03.215Z] at onInvalidCandidate (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:18:1332)
+[2026-06-19T15:10:03.215Z] at pe (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:13:30343)
+[2026-06-19T15:10:03.215Z] at file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:18:373
+[2026-06-19T15:10:03.216Z] at j (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:3:1656)
+[2026-06-19T15:10:03.216Z] at Ke (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:18:172)
+[2026-06-19T15:10:03.216Z] at ii (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:37:294)
+[2026-06-19T15:10:03.216Z] at async vn (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:37:637)
+[2026-06-19T15:10:03.216Z] at async Ol (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:37:1412)
+[2026-06-19T15:10:03.216Z] at async Ka (/home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/@tailwindcss+node@4.1.14/node_modules/@tailwindcss/node/dist/index.mjs:10:3433)
+[2026-06-19T15:10:03.216Z] at async C.generate (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/@tailwindcss+vite@4.1.14_vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6_/node_modules/@tailwindcss/vite/dist/index.mjs:1:3571)
+[2026-06-19T15:10:03.216Z] at async TransformPluginContext.transform (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/@tailwindcss+vite@4.1.14_vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6_/node_modules/@tailwindcss/vite/dist/index.mjs:1:1949)
+[2026-06-19T15:10:03.216Z] at async EnvironmentPluginContainer.transform (/home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6/node_modules/vite/dist/node/chunks/dep-Chhhsdoe.js:31018:14)
+[2026-06-19T15:10:03.216Z] at async loadAndTransform (/home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6/node_modules/vite/dist/node/chunks/dep-Chhhsdoe.js:26143:26)
+[2026-06-19T15:10:03.216Z] at async viteTransformMiddleware (/home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6/node_modules/vite/dist/node/chunks/dep-Chhhsdoe.js:27221:20)
+[2026-06-19T15:10:03.233Z] 3:10:03 PM [vite] (client) Pre-transform error: Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+[2026-06-19T15:10:03.233Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-06-19T15:10:03.233Z] File: /home/ubuntu/minha-rede-social-musica/client/src/index.css
+[2026-06-19T15:10:30.618Z] 3:10:30 PM [vite] changed tsconfig file detected: /home/ubuntu/minha-rede-social-musica/tsconfig.json - Clearing cache and forcing full-reload to ensure TypeScript is compiled with updated config values.
+[2026-06-19T15:10:30.627Z] 3:10:30 PM [vite] (client) page reload index.html
+[2026-06-19T15:10:30.628Z] 3:10:30 PM [vite] (client) hmr update /src/App.tsx
+[2026-06-19T15:10:30.628Z] 3:10:30 PM [vite] (client) page reload src/_core/hooks/useAuth.ts
+[2026-06-19T15:10:30.629Z] 3:10:30 PM [vite] (client) hmr update /src/components/ErrorBoundary.tsx
+[2026-06-19T15:10:30.629Z] 3:10:30 PM [vite] (client) hmr update /src/components/MusicPlayer.tsx
+[2026-06-19T15:10:30.629Z] 3:10:30 PM [vite] (client) hmr update /src/components/Navbar.tsx
+[2026-06-19T15:10:30.629Z] 3:10:30 PM [vite] (client) hmr update /src/components/PostCard.tsx
+[2026-06-19T15:10:30.629Z] 3:10:30 PM [vite] (client) hmr update /src/components/Sidebar.tsx
+[2026-06-19T15:10:30.630Z] 3:10:30 PM [vite] (client) hmr update /src/components/ui/avatar.tsx
+[2026-06-19T15:10:30.630Z] 3:10:30 PM [vite] (client) hmr update /src/components/ui/button.tsx
+[2026-06-19T15:10:30.630Z] 3:10:30 PM [vite] (client) hmr update /src/components/ui/card.tsx
+[2026-06-19T15:10:30.630Z] 3:10:30 PM [vite] (client) hmr update /src/components/ui/dialog.tsx
+[2026-06-19T15:10:30.630Z] 3:10:30 PM [vite] (client) hmr update /src/components/ui/dropdown-menu.tsx
+[2026-06-19T15:10:30.631Z] 3:10:30 PM [vite] (client) hmr update /src/components/ui/input.tsx
+[2026-06-19T15:10:30.631Z] 3:10:30 PM [vite] (client) hmr update /src/components/ui/skeleton.tsx
+[2026-06-19T15:10:30.631Z] 3:10:30 PM [vite] (client) hmr update /src/components/ui/sonner.tsx
+[2026-06-19T15:10:30.631Z] 3:10:30 PM [vite] (client) hmr update /src/components/ui/tabs.tsx
+[2026-06-19T15:10:30.631Z] 3:10:30 PM [vite] (client) hmr update /src/components/ui/textarea.tsx
+[2026-06-19T15:10:30.631Z] 3:10:30 PM [vite] (client) hmr update /src/components/ui/tooltip.tsx
+[2026-06-19T15:10:30.631Z] 3:10:30 PM [vite] (client) page reload src/const.ts
+[2026-06-19T15:10:30.631Z] 3:10:30 PM [vite] (client) hmr update /src/contexts/ThemeContext.tsx
+[2026-06-19T15:10:30.631Z] 3:10:30 PM [vite] (client) page reload src/hooks/useComposition.ts
+[2026-06-19T15:10:30.631Z] 3:10:30 PM [vite] (client) page reload src/hooks/usePersistFn.ts
+[2026-06-19T15:10:30.631Z] 3:10:30 PM [vite] (client) page reload src/lib/trpc.ts
+[2026-06-19T15:10:30.632Z] 3:10:30 PM [vite] (client) page reload src/lib/utils.ts
+[2026-06-19T15:10:30.632Z] 3:10:30 PM [vite] (client) page reload src/main.tsx
+[2026-06-19T15:10:30.634Z] 3:10:30 PM [vite] (client) hmr update /src/pages/Feed.tsx
+[2026-06-19T15:10:30.634Z] 3:10:30 PM [vite] (client) hmr update /src/pages/Home.tsx
+[2026-06-19T15:10:30.634Z] 3:10:30 PM [vite] (client) hmr update /src/pages/Login.tsx
+[2026-06-19T15:10:30.634Z] 3:10:30 PM [vite] (client) hmr update /src/pages/NotFound.tsx
+[2026-06-19T15:10:30.634Z] 3:10:30 PM [vite] (client) hmr update /src/pages/Profile.tsx
+[2026-06-19T15:10:30.634Z] 3:10:30 PM [vite] (client) hmr update /src/pages/Search.tsx
+[2026-06-19T15:10:30.634Z] 3:10:30 PM [vite] (client) hmr update /src/pages/Trending.tsx
+[2026-06-19T15:10:30.634Z] 3:10:30 PM [vite] (client) page reload /home/ubuntu/minha-rede-social-musica/shared/const.ts
+[2026-06-19T15:10:30.730Z] 3:10:30 PM [tsx] unlink in ./vite.config.ts Restarting...
+[2026-06-19T15:10:31.038Z] c
+[2026-06-19T15:10:31.038Z] node:internal/modules/run_main:122
+[2026-06-19T15:10:31.038Z] triggerUncaughtException(
+[2026-06-19T15:10:31.038Z] ^
+[2026-06-19T15:10:31.039Z] Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/minha-rede-social-musica/server/_core/index.ts' imported from /home/ubuntu/minha-rede-social-musica/
+[2026-06-19T15:10:31.039Z] at finalizeResolution (node:internal/modules/esm/resolve:275:11)
+[2026-06-19T15:10:31.039Z] at moduleResolve (node:internal/modules/esm/resolve:932:10)
+[2026-06-19T15:10:31.039Z] at defaultResolve (node:internal/modules/esm/resolve:1056:11)
+[2026-06-19T15:10:31.039Z] at nextResolve (node:internal/modules/esm/hooks:748:28)
+[2026-06-19T15:10:31.039Z] at resolveBase (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tsx@4.20.6/node_modules/tsx/dist/esm/index.mjs?1781881830903:2:3744)
+[2026-06-19T15:10:31.039Z] at resolveDirectory (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tsx@4.20.6/node_modules/tsx/dist/esm/index.mjs?1781881830903:2:4243)
+[2026-06-19T15:10:31.039Z] at resolveTsPaths (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tsx@4.20.6/node_modules/tsx/dist/esm/index.mjs?1781881830903:2:4984)
+[2026-06-19T15:10:31.039Z] at resolve (file:///home/ubuntu/minha-rede-social-musica/node_modules/.pnpm/tsx@4.20.6/node_modules/tsx/dist/esm/index.mjs?1781881830903:2:5361)
+[2026-06-19T15:10:31.039Z] at nextResolve (node:internal/modules/esm/hooks:748:28)
+[2026-06-19T15:10:31.039Z] at Hooks.resolve (node:internal/modules/esm/hooks:240:30) {
+[2026-06-19T15:10:31.039Z] code: 'ERR_MODULE_NOT_FOUND',
+[2026-06-19T15:10:31.039Z] url: 'file:///home/ubuntu/minha-rede-social-musica/server/_core/index.ts'
+[2026-06-19T15:10:31.039Z] }
+[2026-06-19T15:10:31.039Z] Node.js v22.13.0
+[2026-06-19T15:10:35.756Z] Dev server exited with code 0

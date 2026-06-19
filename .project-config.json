@@ -1,0 +1,45 @@
+{
+  "build_command": "pnpm run build",
+  "capabilities": [
+    "server",
+    "db",
+    "user"
+  ],
+  "dev_command": "pnpm run dev",
+  "env_vars": {
+    "DATABASE_URL": "mysql://32esA3LqLTmVGxF.root:Hh7nRpiZGE2l94BL1W7d@gateway03.us-east-1.prod.aws.tidbcloud.com:4000/mtDrHsCAFswuaLFkYXSxfZ?ssl={\"rejectUnauthorized\":true}"
+  },
+  "experiments": [
+    "no_db_push",
+    "references_readme"
+  ],
+  "git_remote": {
+    "repo_url": "s3://vida-prod-gitrepo/webdev-git/310519663749779974/mtDrHsCAFswuaLFkYXSxfZ",
+    "access_key_id": "ASIAZV3A2ECZKFAYQ35P",
+    "secret_access_key": "NB4AKmFM4jVCLpNNeeNDFR1bmSOtVqs56fYbnTy9",
+    "session_token": "IQoJb3JpZ2luX2VjEPf//////////wEaCXVzLWVhc3QtMSJGMEQCIAeMy05F0Mqle9712ShktkaT6RPUvdQjG80eexcOyGl2AiBncILA9HOI1POBLQyeEqWnIi1gPXPWSe5e0X9MbWeXCyr/AwjA//////////8BEAQaDDY2NTM4NjA5ODg2NiIMyMav53KWU5XH/zT4KtMD2xMIgPkTX7oGD/H/h8RG1KTRZ5ujkX+LjKguJSJ5qAOQipI7g+4lpJ5yDA/xhfX2bq1BM16bomN8k4WN1ICkdxnmsQWnwREv14QbtpFkEiA1xB8w5rw/Bh0z3x+g/ql5K5iDVM77n9CLeL7Z77f6AMAxn5TJppDZXx/rFEo4mRtILC0Trl3jHidBSo5NuF1e1w4zCv/2G1N9oay8Ys/S9Hp9ULnJ3x914RL7fbI+bKVtfxQJAPodW/FNdauBNIU6ugtqcMMlCwtmoqDvnrv3U4HMeOuGuXdD9e7+RCoo5kOQFqEWDst0fvdQ2CM7KjuVhqH4Rv1lfbW/snZbVQu1lLH1dnL4LnT/uuPx2fR3E0lKd8tdbcj8g82UL77MLtD3eAoohrX2LuOlFM1XA5/BXVFuDrNvKJc1RgH4/5yByoHMfVBzMLhHMoJCNlTGkAyMQph3uL8fnkvQqujo0voLEtHK7IZXQudU7UY3piF1tXL+qUd1r2NCd14TWHvSi2ILnnsd8HIfqLQjLkyTqBf7Cbk1Z/Di1+ApFFzft/UQFUdfgpMw/OBsRNCjh8C1GaxR/QeL0czINdqs4UtjoPKCB5fNKpGajkNCVnUaMnHCZwGWAoYwvbHV0QY6ngEOWx9r2mOGHhw6LLRzuynVDCnOQ3gJfm/G/5oTPeTc6CV2NgyjGnwr2jMdMxhWkzinMGGiZco0Xa1qqicfgKmvzqugy1ewJUSBcF1ccqPGJCmngZEmEisn0d1hflVCNWhiJZDZ/RwAL1UGgWHpD3M+SVV4KcI9uAOes++3zvoB7hproTG2NzKVvTXpzEi6zETMJPSlCIJih9Gt7AcVvg==",
+    "expiration": "2026-06-20T02:57:01.000Z",
+    "backend": "GIT_BACKEND_S3"
+  },
+  "name": "minha-rede-social-musica",
+  "path": "/home/ubuntu/minha-rede-social-musica",
+  "port": 3000,
+  "secrets": {
+    "BUILT_IN_FORGE_API_KEY": "Tw8v95GSeqr5ULFTxHNadN",
+    "BUILT_IN_FORGE_API_URL": "https://forge.manus.ai",
+    "JWT_SECRET": "6WP4dgovWFeCZvkUyCMB7r",
+    "OAUTH_SERVER_URL": "https://api.manus.im",
+    "OWNER_NAME": "MICHAEL ROVEDA DE MEDEIROS",
+    "OWNER_OPEN_ID": "JArm5wzcUXq8WWd4GCojeS",
+    "VITE_ANALYTICS_ENDPOINT": "https://manus-analytics.com",
+    "VITE_ANALYTICS_WEBSITE_ID": "482f88f4-d812-4adc-a44f-8a20257e7976",
+    "VITE_APP_ID": "mtDrHsCAFswuaLFkYXSxfZ",
+    "VITE_APP_LOGO": "",
+    "VITE_APP_TITLE": "Minha Rede Social de Músicas",
+    "VITE_FRONTEND_FORGE_API_KEY": "kGYXx6UqZ6Mn8f5WiZBB7n",
+    "VITE_FRONTEND_FORGE_API_URL": "https://forge.manus.ai",
+    "VITE_OAUTH_PORTAL_URL": "https://manus.im"
+  },
+  "template_id": "web-db-user",
+  "test_command": "pnpm test"
+}
