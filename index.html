@@ -950,7 +950,6 @@
         </div>
         <div class="new-post-actions">
           <div class="post-tools">
-            <button class="tool-btn" title="Foto" onclick="addFakeImage()">&#128247; Foto</button>
             <button class="tool-btn" title="Emoji" onclick="addEmoji()">&#128512; Emoji</button>
             <button class="tool-btn" title="Localização" onclick="addLocation()">&#128205; Local</button>
           </div>
@@ -1370,12 +1369,6 @@ function publishPost() {
   const container = document.getElementById('posts-container');
   container.insertBefore(createPostEl(newPost), container.firstChild);
   showToast('Post publicado com sucesso! 🎉');
-}
-
-function addFakeImage() {
-  const textarea = document.getElementById('post-text');
-  textarea.value += (textarea.value ? '\n' : '') + '[📷 Imagem anexada]';
-  showToast('Imagem adicionada ao post!');
 }
 
 function addEmoji() {
